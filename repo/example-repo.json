@@ -6,11 +6,12 @@
     "website": "//inocydia.net",
     "description":"Example Repo JSON",
     "icon":"https://inocydia.github.io/img/inclink.jpg",
-    "packages":
+    "packages":IFile
      [
       {
-        "id": "net.inocydia.oldapp",
-        "name": "Old iNoCydia App",
+        "id": "id.usa.net",
+        "name": "Ifile DERP
+        ",
         "version": "3.1",
         "author": "TheFearlessNerds",
         "description": "The old iNoCydia app.",
@@ -19,7 +20,7 @@
         "icon": "https://inocydia.github.io/img/inclink.jpg"
       },
       {
-        "id": "org.tfn.blog",
+        "id": "id.usd.net",
         "name": "tfn blog",
         "version": "1.0",
         "author": "TheFearlessNerds",
